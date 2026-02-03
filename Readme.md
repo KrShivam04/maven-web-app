@@ -1,1 +1,0 @@
-Learning github and doing commits over the central repository 
